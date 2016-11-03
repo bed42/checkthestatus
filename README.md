@@ -10,3 +10,14 @@ One side talks to Slack
 
 The other side talks to a custom app running on an Arduino:
 * https://github.com/niccs/HomeCheck-Slack-Bot
+
+
+<b>High LevelProcess flow </b>
+
+
+![Process flow](https://cloud.githubusercontent.com/assets/5301598/19955905/423c6f6c-a1da-11e6-9064-325f91437731.png)
+
+
+<b> Hardware Block diagram</b>
+
+![Process flow](https://cloud.githubusercontent.com/assets/5301598/19955907/44d96a68-a1da-11e6-8a93-520f6252f0e5.png)
