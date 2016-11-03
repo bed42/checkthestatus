@@ -1,6 +1,6 @@
 <b> Home Check Slack Bot </b>
 -------------
-for the Isobar Australia SlackHack 2016
+for the Isobar Australia SlackHack 2016, with https://github.com/niccs
 
 
 • Implementation Concept is for a Home to interface via Slack
