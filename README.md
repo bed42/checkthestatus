@@ -3,25 +3,20 @@
 for the Isobar Australia SlackHack 2016
 
 
-Features Supported: --
--------------
-Implementation Concept is for a Home
-
+• Implementation Concept is for a Home to interface via Slack
 > - Monitor temperature, humidity and door open status
 > - Remotely turn on & off a light and fan
 > - Gas leakage detection alarm & Panic button alerts
 
-Smart use of Technology: --
--------------
-•	Code
--------------
+•	Slack Integrations
 > - 	Slash Command
 > - 	Incoming Webhook
+
+•	Code
 > - Node / Express
-> - 	Embedded C
+> - Embedded C
 
 •	Hardware 
--------------
 > - Arduino board
 > - 	Arduino GSM Shield
 > - 	Sensors, Relays, voltage convertors
