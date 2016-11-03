@@ -1,8 +1,8 @@
-# checkthestatus
+<b> Home Check slack Bot </b>
 for the Isobar Australia SlackHack 2016
 
 
-<b>Features Supported: --</b>
+Features Supported: --
 -------------
 Implementation Concept is for a Home
 
