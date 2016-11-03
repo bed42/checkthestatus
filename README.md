@@ -38,9 +38,10 @@ Smart use of Technology: --
 ![Process flow](https://cloud.githubusercontent.com/assets/5301598/19955907/44d96a68-a1da-11e6-8a93-520f6252f0e5.png)
 
 Hardware SetUp:--
+-------------
 
-1)	DHT22  Humidity and temperature sensor
-2)	Gas leakage Sensor/smoke Sensor(MQ2)
-3)	Door Sensor (borrowed from a printer)
-4)	Led light
-5)	CPU fan(12 V) 
+> - 	DHT22  Humidity and temperature sensor
+> - 	Gas leakage Sensor/smoke Sensor(MQ2)
+> - 	Door Sensor (borrowed from a printer)
+> - 	Led light
+> - 	CPU fan(12 V) 
