@@ -1,4 +1,5 @@
-<b> Home Check slack Bot </b>
+<b> Home Check Slack Bot </b>
+-------------
 for the Isobar Australia SlackHack 2016
 
 
