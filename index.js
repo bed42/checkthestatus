@@ -81,7 +81,7 @@ function pushSmokeUpdate(onfire, target){
   }
   //json += ', "icon_url": "https://www.ncptt.nps.gov/wp-content/uploads/fire-vector.png"'
   json = "{" + json + "}";
-  request({url:'https://hooks.slack.com/services/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', method:"POST", body: json}, function (error, response, body) {
+  request({url:'https://hooks.slack.com/services/KEYGOESHERE', method:"POST", body: json}, function (error, response, body) {
     console.log("Smoke Update: " + body)
   })
 }
@@ -94,7 +94,7 @@ function pushPanic(target){
   //json += ', "icon_url": "http://i.imgur.com/wbMOuPC.png"'
   json = "{" + json + "}";
   console.log("Payload: " + json)
-  request({url:'https://hooks.slack.com/services/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', method:"POST", body: json}, function (error, response, body) {
+  request({url:'https://hooks.slack.com/services/KEYGOESHERE', method:"POST", body: json}, function (error, response, body) {
     console.log("Panic: " + body)
   })
 }
